@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and test outputs
+*.log
+*.out
+*.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Unit test cache
+.pytest_cache/
+.cache/
+*.sqlite3
+
+# mypy, pyright, pylint, coverage etc.
+.mypy_cache/
+.pyright/
+.dmypy.json
+.pyre/
+.coverage
+*.cover
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable files (optional)
+.env
+.env.*
+
+# SQLite DBs or other local storage (optional)
+*.db
+*.sqlite3
+
+# Gunicorn / Uvicorn pid files
+*.pid
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
